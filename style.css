@@ -232,10 +232,8 @@ nav ul li a:hover {
 }
 
 .section img {
-    /*max-width: 200px;
-    width: 100%;*/
-    max-width: 600px;
-    width: 500%;
+    max-width: 200px;
+    width: 100%;
     border-radius: 18px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
     transition: transform 0.3s ease;
