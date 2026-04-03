@@ -238,7 +238,14 @@ nav ul li a:hover {
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
     transition: transform 0.3s ease;
 }
-
+/*--------- added new on 03/04/26----------- */
+.product-section img {
+    max-width: 500px;
+    width: 100%;
+    border-radius: 18px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease;
+}
 .section img:hover {
     transform: scale(1.05);
 }
